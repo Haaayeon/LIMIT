@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>저의 노래입니다</title>
+<style>
+.main2 {display:none;}
+
+@media  screen and ( max-width:480px ){
+.main {display:none;}
+.main2 {display:block;}
+}
+</style>
+</head>
+
+<BODY LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+
+<div valign="middle">
+
+<table height=100% width=100% border="0" scrolling="no">
+
+<tr><td height=100% width=100% border="0" scrolling="no" align="center" valign="middle">
+<body bgcolor=#313131 style="overflow-x:hidden;overflow-y:hidden" topmargin=0>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi" />
+
+
+<p class="main">
+<a href="https://haaayeon.github.io/LIMIT/">
+<img src="https://blog.kakaocdn.net/dn/sePuN/btrFyLXeBQx/5efdxSTPRwL1UgTsCdYVgk/img.jpg"border="0"width="100%"></a>
+</p>
+<p class="main2">
+<a href="https://haaayeon.github.io/LIMIT/">
+<img src="https://blog.kakaocdn.net/dn/b2x0K9/btrFh94Zvq2/NPyB2tPmtFpxMKwNPNUsy1/img.jpg"border="0"width="100%"></a>
+</p>
+</tr>
+
+</table>
+
+</div>
+
+</BODY>
+
+</HTML>
